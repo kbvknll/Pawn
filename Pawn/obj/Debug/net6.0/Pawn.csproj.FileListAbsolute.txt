@@ -1,0 +1,14 @@
+C:\Users\yekat\source\repos\Pawn\Pawn\bin\Debug\net6.0\Pawn.exe
+C:\Users\yekat\source\repos\Pawn\Pawn\bin\Debug\net6.0\Pawn.deps.json
+C:\Users\yekat\source\repos\Pawn\Pawn\bin\Debug\net6.0\Pawn.runtimeconfig.json
+C:\Users\yekat\source\repos\Pawn\Pawn\bin\Debug\net6.0\Pawn.dll
+C:\Users\yekat\source\repos\Pawn\Pawn\bin\Debug\net6.0\Pawn.pdb
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.AssemblyInfoInputs.cache
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.AssemblyInfo.cs
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.csproj.CoreCompileInputs.cache
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.dll
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\refint\Pawn.dll
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.pdb
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\Pawn.genruntimeconfig.cache
+C:\Users\yekat\source\repos\Pawn\Pawn\obj\Debug\net6.0\ref\Pawn.dll
